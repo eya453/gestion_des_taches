@@ -29,4 +29,5 @@ while ch!=0:
         if trouve==False:
             print("Aucune tache trouvee.")
 if ch==0:
-    print("Programme fermer")
+    print("Merci d'avoir utilisé notre programme !")
+    print("Programme fermé.")
